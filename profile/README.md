@@ -6,5 +6,6 @@
   <p>If you wish to see more about us or want to help with our projects you can</p>
   <a href="https://discord.gg/qyv8P2gegK">Join our Community Discord</a><br>
   <a href="https://ko-fi.com/fabiothefox">Help us fund the Projects on Ko-Fi</a><br>
+  <a href="www.youtube.com/@AminoNET">Visit our official YouTube channel</a>
   
 </div>
